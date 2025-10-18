@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\Desktop\\DIO\\trilha-net-azure-desafio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A571B73-46CC-8225-C1A6-24C8D836D4C4}|src\\trilha-net-azure-desafio.csproj|c:\\users\\david\\desktop\\dio\\trilha-net-azure-desafio\\src\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A571B73-46CC-8225-C1A6-24C8D836D4C4}|src\\trilha-net-azure-desafio.csproj|solutionrelative:src\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A571B73-46CC-8225-C1A6-24C8D836D4C4}|src\\trilha-net-azure-desafio.csproj|c:\\users\\david\\desktop\\dio\\trilha-net-azure-desafio\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A571B73-46CC-8225-C1A6-24C8D836D4C4}|src\\trilha-net-azure-desafio.csproj|solutionrelative:src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Desktop\\DIO\\trilha-net-azure-desafio\\src\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\david\\Desktop\\DIO\\trilha-net-azure-desafio\\src\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "src\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowEgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T02:56:53.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Desktop\\DIO\\trilha-net-azure-desafio\\src\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Program.cs",
+              "ToolTip": "C:\\Users\\david\\Desktop\\DIO\\trilha-net-azure-desafio\\src\\Program.cs",
+              "RelativeToolTip": "src\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T02:34:04.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
